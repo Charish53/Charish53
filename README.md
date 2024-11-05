@@ -9,6 +9,12 @@
   <a href="mailto:charish230@gmail.com"><img src="https://img.shields.io/badge/-charish230@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/reddipalli-sai-charish-408532246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/Charish53/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://github.com/Charish53"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
 ---
 
 ### 👩‍💻 About Me
@@ -16,19 +22,16 @@
 - 💡 Exploring **Flex and Bison**, **K-means clustering**, **Socket Programming**, and **Python Data Analysis**
 - 🎶 Working on a cool **CD project to generate audio from chords using Lex and Yacc**
 
-### 🌐 Let's Connect
-- **LinkedIn:** [R SAI CHARISH](https://linkedin.com/in/reddipalli-sai-charish-408532246/)
-- **LeetCode:**[Charish53](https://leetcode.com/u/Charish53/)
-- **GitHub:** [Charish53](https://github.com/Charish53)  
-
 ---
 
 ### 🛠️ Languages and Tools
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![Flex and Bison](https://img.shields.io/badge/Flex--Bison-5c5c5c?style=flat&logo=data:image/svg+xml;base64,...)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.IO">
+  <img src="https://img.shields.io/badge/Flex--Bison-5c5c5c?style=flat&logo=data:image/svg+xml;base64,..." alt="Flex and Bison">
+</p>
 
 ---
 
