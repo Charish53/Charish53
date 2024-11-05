@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm R SAI CHARISH 👋</h1>
 
 <p align="center">
-  <em>Pre- Final Year Student at IIITDM Kancheepuram | Passionate about Coding, Design, and Tech!</em>
+  <em>Pre-final Year Student at IIITDM Kancheepuram | Passionate about Coding, Design, and Tech!</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/RiyaMali"><img src="https://img.shields.io/github/followers/RiyaMali?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="mailto:riyamali@example.com"><img src="https://img.shields.io/badge/-riyamali@example.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/RSaiCharish"><img src="https://img.shields.io/github/followers/RSaiCharish?label=Followers&style=social" alt="GitHub followers"></a>
+  <a href="mailto:rsaicharish@example.com"><img src="https://img.shields.io/badge/-rsaicharish@example.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -17,9 +17,9 @@
 - 🎶 Working on a cool **CD project to generate audio from chords using Lex and Yacc**
 
 ### 🌐 Let's Connect
-- **LinkedIn:** [Riya Mali](https://linkedin.com/in/riyamali)  
+- **LinkedIn:** [R SAI CHARISH](https://linkedin.com/in/rsaicharish)  
 - **Portfolio:** [Your Portfolio Link](#)  
-- **GitHub:** [@RiyaMali](https://github.com/RiyaMali)  
+- **GitHub:** [@RSaiCharish](https://github.com/RSaiCharish)  
 
 ---
 
@@ -34,15 +34,15 @@
 
 ### 🔥 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiyaMali&show_icons=true&theme=radical" alt="Riya's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaMali&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RSaiCharish&show_icons=true&theme=radical" alt="R SAI CHARISH's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSaiCharish&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
 ### 📈 My Coding Journey
 <p align="justify">
-  I'm Riya, a curious and motivated MDes student with a love for exploring the intersection of design, tech, and problem-solving. Through my coursework and personal projects, I’ve delved into everything from algorithmic programming to data analytics and system design. I’m always looking to expand my knowledge and am particularly passionate about projects that merge creativity and functionality.
+  I'm R SAI CHARISH, a curious and motivated pre-final year MDes student with a love for exploring the intersection of design, tech, and problem-solving. Through my coursework and personal projects, I’ve delved into everything from algorithmic programming to data analytics and system design. I’m always looking to expand my knowledge and am particularly passionate about projects that merge creativity and functionality.
 </p>
 
 ---
