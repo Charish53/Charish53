@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RSaiCharish"><img src="https://img.shields.io/github/followers/RSaiCharish?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="mailto:rsaicharish@example.com"><img src="https://img.shields.io/badge/-rsaicharish@example.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="charish230@gmail.com"><img src="https://img.shields.io/badge/-rsaicharish@example.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
