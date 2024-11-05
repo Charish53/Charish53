@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Charish53"><img src="https://img.shields.io/github/followers/Charish53?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="charish230@gmail.com"><img src="https://img.shields.io/badge/-charish230@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:charish230@gmail.com"><img src="https://img.shields.io/badge/-charish230@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -18,8 +18,7 @@
 
 ### 🌐 Let's Connect
 - **LinkedIn:** [R SAI CHARISH](https://linkedin.com/in/rsaicharish)  
-- **Portfolio:** [Your Portfolio Link](#)  
-- **GitHub:** [@RSaiCharish](https://github.com/RSaiCharish)  
+- **GitHub:** [@Charish53](https://github.com/Charish53)  
 
 ---
 
@@ -42,7 +41,7 @@
 
 ### 📈 My Coding Journey
 <p align="justify">
-  I'm R SAI CHARISH, a curious and motivated pre-final year MDes student with a love for exploring the intersection of design, tech, and problem-solving. Through my coursework and personal projects, I’ve delved into everything from algorithmic programming to data analytics and system design. I’m always looking to expand my knowledge and am particularly passionate about projects that merge creativity and functionality.
+  I'm R SAI CHARISH, a curious and motivated pre-final year student with a love for exploring the intersection of design, tech, and problem-solving. Through my coursework and personal projects, I’ve delved into everything from algorithmic programming to data analytics and system design. I’m always looking to expand my knowledge and am particularly passionate about projects that merge creativity and functionality.
 </p>
 
 ---
