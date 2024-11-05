@@ -17,7 +17,7 @@
 - 🎶 Working on a cool **CD project to generate audio from chords using Lex and Yacc**
 
 ### 🌐 Let's Connect
-- **LinkedIn:** [R SAI CHARISH](https://linkedin.com/in/rsaicharish)  
+- **LinkedIn:** [R SAI CHARISH](https://linkedin.com/in/reddipalli-sai-charish-408532246/)  
 - **GitHub:** [@Charish53](https://github.com/Charish53)  
 
 ---
