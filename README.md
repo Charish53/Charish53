@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  💬 <i>Feel free to reach out if you're interested in collaborating or just want to chat about tech and design!</i> 💬
+  💬 <i>Feel free to reach out if you're interested in collaborating or just want to chat about tech and design and indusstry related concerns!</i> 💬
 </p>
